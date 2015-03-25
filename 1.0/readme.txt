@@ -15,10 +15,6 @@ Easy way to add fixed resposive background image to your blog & website. This pl
 
 Easy way to add fixed resposive background image to your blog & website. This plugin helps you to easy to add resposive background image!
 
-== Screenshots ==
-
-1. Enter your background image url or upload your image.
-2. After all see results like!
 
 ### Live Demo 
 
@@ -40,10 +36,7 @@ Easy way to add fixed resposive background image to your blog & website. This pl
 == Frequently Asked Questions ==
 * [For questions, contact me.](http://www.wpchandra.com/)
 
-== Changelog ==
+== Screenshots ==
 
-= 1.0 =
-WPChandra Support.
-
-= 1.0 =
-First version.
+1. Enter your background image url or upload your image.
+2. After all see results like!
