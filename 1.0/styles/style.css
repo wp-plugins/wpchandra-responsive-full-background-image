@@ -1,0 +1,23 @@
+/* -----------www.wpchandra.com--------------*/
+/* Plugin Name: WPChandra Responsive Full Background Image
+ Author: Chandrakesh Kumar
+ */
+#wp_wrap_responsive_bg input[type="text"]{
+	  background: #FFF;
+  border: 1px solid #CCC;
+  padding: 7px 10px;
+} 
+
+#wp_wrap_responsive_bg #upload_image_button{
+	  background: #FFF;
+  border: 1px solid #CCC;
+  padding: 7px 10px;
+  cursor: pointer;
+} 
+
+#wp_wrap_responsive_bg .label{
+	padding: 9px 2px;
+  display: block;
+  font-size: 13px;
+  font-style: italic;
+}
