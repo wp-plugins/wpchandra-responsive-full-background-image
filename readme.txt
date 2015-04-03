@@ -1,5 +1,5 @@
 === WPChandra Responsive Background Image ===
-Contributors: chandgiri67
+Contributors:wp-chandra,chandgiri67
 Tags: wordpress resposnive, responsive, full background, responsive background, background, widget, Post, plugin, admin, posts, sidebar,wpchandra,wpchandra wordpress,chand giri, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
 Tested up to: 4.1
