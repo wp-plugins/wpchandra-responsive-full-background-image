@@ -1,5 +1,6 @@
 === Responsive Background Image ===
 Contributors:wp-chandra,chandgiri67
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZUB32FZNMM3U
 Tags: wordpress resposnive, responsive, full background, responsive background, background, widget, Post, plugin, admin, posts, sidebar,wpchandra,wpchandra wordpress,chand giri, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
 Tested up to: 4.1
