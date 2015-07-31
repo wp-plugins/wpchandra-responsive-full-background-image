@@ -19,7 +19,7 @@ Easy way to add fixed resposive background image to your blog & website. This pl
 
 ### Live Demo 
 
-* [http://www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/](www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/)
+* [http://www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/](http://www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/)
 
 ### More  Plugins
 
