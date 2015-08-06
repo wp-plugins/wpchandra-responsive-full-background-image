@@ -4,7 +4,7 @@
  Description: Easy way to add fixed resposive background image to your blog & website. This plugin helps you to easy to add resposive background image.
  Version: 1.1
  Author: Chandrakesh Kumar
- Author URI: http://www.wpchandra.com/
+ Author URI: http://www.wpchandra.com/ 
  License: GPLv2 or later
  */
 if (!class_exists('WP_Chandra')) { 
