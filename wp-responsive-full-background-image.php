@@ -1,13 +1,13 @@
 <?php
 /* Plugin Name: Responsive Background Image
- Plugin URI: www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/
+ Plugin URI: http://www.plugins.wpchandra.com/demo/wpchandra-responsive-full-background-image/
  Description: Easy way to add fixed resposive background image to your blog & website. This plugin helps you to easy to add resposive background image.
  Version: 1.1
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/ 
  License: GPLv2 or later
  */
-if (!class_exists('WP_Chandra')) { 
+if (!class_exists('WP_Chandra')) {  
 	class WP_Chandra {
 		/** 
 		 * Construct the plugin object
