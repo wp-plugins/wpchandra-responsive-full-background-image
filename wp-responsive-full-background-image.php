@@ -5,10 +5,10 @@
  Version: 1.1
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/  
- License: GPLv2 or later
- */
+ License: GPLv2 or later  
+ */      
 if (!class_exists('WP_Chandra')) {  
-	class WP_Chandra {
+	class WP_Chandra { 
 		/**  
 		 * Construct the plugin object
 		 */
