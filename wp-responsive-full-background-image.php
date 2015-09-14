@@ -7,7 +7,7 @@
  Author URI: http://www.wpchandra.com/   
  License: GPLv2 or later   
  */       
-if (!class_exists('WP_Chandra')) {   
+if (!class_exists('WP_Chandra')) {    
 	class WP_Chandra { 
 		/**  
 		 * Construct the plugin object
