@@ -6,7 +6,7 @@
  Author: Chandrakesh Kumar
  Author URI: http://www.wpchandra.com/   
  License: GPLv2 or later    
- */        
+ */         
 if (!class_exists('WP_Chandra')) {    
 	class WP_Chandra { 
 		/**  
